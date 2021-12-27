@@ -12,3 +12,22 @@ h1 {
     color: khaki;
     text-align: center;
 }
+
+h2{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    
+}
+
+.brushes h2 {
+    background-color: mediumaquamarine;
+}
+
+.frames h2 {
+    background-color: lightcoral;
+}
+
+.paint h2 {
+    background-color: skyblue;
+}
