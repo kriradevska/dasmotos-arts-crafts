@@ -12,6 +12,6 @@ Intended for practise of using HTML, CSS, folder structure.
 + CSS
 + Git 2.34.0.windows.1
 
-### Launc
+### Launch
 
-Could be lounch with a standard browser.
+Could be launch with a standard browser.
