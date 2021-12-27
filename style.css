@@ -2,9 +2,13 @@ body {
     font-family: Helvetica;
 }
 header {
+    
+    background-image: url('https://raw.githubusercontent.com/kriradevska/dasmotos-arts-crafts/main/pictures/pattern.webp');
+}
+
+h1 {
     font-size:100px;
     font-weight: bold;
     color: khaki;
     text-align: center;
-    background-image: url('https://raw.githubusercontent.com/kriradevska/dasmotos-arts-crafts/main/pictures/pattern.webp');
 }
