@@ -1,8 +1,8 @@
 body {
     font-family: Helvetica;
 }
+
 header {
-    
     background-image: url('https://raw.githubusercontent.com/kriradevska/dasmotos-arts-crafts/main/pictures/pattern.webp');
 }
 
@@ -16,8 +16,7 @@ h1 {
 h2{
     font-size: 32px;
     font-weight: bold;
-    color: white;
-    
+    color: white;  
 }
 
 .brushes h2 {
